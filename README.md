@@ -58,3 +58,4 @@ Chinese: [version 1][5], [version 2][6]<br>
 [5]: https://yanlu.me/animate-all-the-things-transitions-in-android/
 [6]: http://www.jianshu.com/p/98f2ec280945
 [7]: https://medium.com/@andkulikov/support-library-for-transitions-overview-and-comparison-c41be713cf8c
+//https://www.jianshu.com/p/98f2ec280945
